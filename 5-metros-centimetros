@@ -1,0 +1,3 @@
+metro = int(input('Digite o número em metros: '))
+cent = metro * 100
+print('{} metros equivale a {} centímetros'.format(metro, cent))
