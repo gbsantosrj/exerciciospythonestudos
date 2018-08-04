@@ -1,0 +1,4 @@
+raio = int(input('Informe o raio: '))
+pi = 3.14
+area = pi * (raio**2)
+print('A área é igual a {}cm²'.format(area)) 
