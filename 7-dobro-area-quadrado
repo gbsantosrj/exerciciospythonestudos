@@ -1,0 +1,4 @@
+lados = float(input('Qual o tamanho dos lados do quadrado? '))
+area = lados * lados
+dobro = area * 2
+print('O dobro da area do quadrado é: {}'.format(dobro))
